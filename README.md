@@ -22,7 +22,7 @@ Este proyecto requiere las siguientes dependencias:
 1. **Clonar el repositorio**:
    Abre la terminal o línea de comandos y ejecuta:
    ```bash
-   git clone [<url-del-repositorio>](https://github.com/LuisVasquez23/PruebaAbank/)
+   git clone https://github.com/LuisVasquez23/PruebaAbank/
    cd PruebaAbank
    ```
 2. Abrir la solución en Visual Studio 2022
